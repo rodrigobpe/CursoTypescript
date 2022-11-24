@@ -1,5 +1,6 @@
+
 *Tipos*
-    - Public
+- Public
         Basicamente se vc cria uma classe com uma variável sem declarar se é "public,protected ou private", por default ela já vem como public e pode ser acessada de diversos lugares
     
     - Private
